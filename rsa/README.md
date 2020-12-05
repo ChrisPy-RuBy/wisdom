@@ -1,4 +1,4 @@
-# The idea:
+# The Idea:
 
 Implement RSA in python 
 
@@ -21,6 +21,6 @@ RSA can be split into 4 main steps
 	- The decryption formula is M = C^d(mod N)
 
 # Progress:
-[x] MVP basic implementation. 
-[] more complex messages
-[] encode decode over the network
+[x] MVP basic implementation.  
+[] more complex messages  
+[] encode decode over the network  
