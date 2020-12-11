@@ -23,7 +23,6 @@ class Gerkin:
 def main():
     gerkin = Gerkin(4, 2)
     x = pickle.dumps(gerkin)
-    import pdb; pdb.set_trace() 
 
 
 
